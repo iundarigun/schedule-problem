@@ -1,0 +1,3 @@
+rootProject.name = 'ws'
+include ":common"
+project(":common").projectDir = file("../common")
